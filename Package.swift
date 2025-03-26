@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WebRTC",
-            url: "https://github.com/LessCommTech/WebRTC/actions/runs/14077350021/artifacts/2821798278",
-            checksum: "c714c65f5405b38762f94208b0ee2e9fdc3bb4ba5c503fedf52944a73fe179d8"
+            url: "https://github.com/LessCommTech/WebRTC/actions/runs/14080373088/artifacts/2822818034",
+            checksum: "894a774ead454f3c2ec625407dbd7987370cf90ba54dbb4585c78de2d1783492"
         ),
     ]
 )
